@@ -30,6 +30,10 @@
 | 이미지 처리 | Pillow |
 | 배포 | Cloudflare Tunnel |
 
+## 기술 아키텍처
+
+![아키텍처 다이어그램](images/architecture.svg)
+
 ## AI 에이전트 파이프라인
 
 ```

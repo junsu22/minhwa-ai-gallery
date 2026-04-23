@@ -1,0 +1,17 @@
+{
+  "image_01.png": {
+    "title": "까치와 호랑이",
+    "style": "Korean Minhwa",
+    "prompt": "Korean minhwa magpie and tiger, colorful psychedelic art style, traditional folk art composition, vibrant neon colors, decorative patterns"
+  },
+  "image_02.png": {
+    "title": "단오풍정",
+    "style": "Korean Minhwa",
+    "prompt": "Korean minhwa Dano festival scene, women in hanbok washing hair by the stream, willow trees, colorful psychedelic art style"
+  },
+  "image_03.png": {
+    "title": "서당",
+    "style": "Korean Minhwa",
+    "prompt": "Korean minhwa seodang Joseon dynasty village school, teacher and students, colorful psychedelic art style, vibrant neon colors"
+  }
+}

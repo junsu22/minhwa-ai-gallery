@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+
+# 생성된 이미지/메타데이터만 제외 (gallery_info.json은 포함)
+gallery/*.png
+gallery/2*.json
+
+# 빌드/로그 파일
+make_report.py
+*.pdf
+streamlit_*.txt
+out.txt
+err.txt
